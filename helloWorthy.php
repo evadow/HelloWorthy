@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Hello_Worthy
- * @version 1.1
+ * @version 1.2
  */
 /*
 Plugin Name: Hello Worthy
