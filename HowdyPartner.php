@@ -13,7 +13,7 @@ Author URI: N/A
 */
 
 function howdy_partner_get_quote() {
-	/** These are the lyrics to I love your smile and some random quotes*/
+	/** These are the lyrics to Space Cowboy by Jamiroquai*/
 	$lyrics = "Everything is good and brown,
 	With a sunshine smile upon my face,
 	And all my inhibitions have disappeared without a trace,
